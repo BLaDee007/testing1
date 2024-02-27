@@ -67,6 +67,4 @@ int main()
         cout << "Element " << target << " found at index " << index << endl;
     else
         cout << "Element " << target << " not found in the array." << endl;
-
-    return 0;
 }
