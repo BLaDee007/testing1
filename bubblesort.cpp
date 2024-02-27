@@ -37,7 +37,7 @@ int binarySearch(const vector<int> &arr, int target)
         else
             right = mid - 1;
     }
-    return -1; // If element not found
+    return -1;
 }
 
 int main()
